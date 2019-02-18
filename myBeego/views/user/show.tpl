@@ -1,0 +1,1 @@
+/Users/shiyufeng/Documents/workspace/Golang/src/myBeego/views/user/show.tpl
